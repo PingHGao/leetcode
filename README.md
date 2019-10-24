@@ -3,4 +3,4 @@
 
 | 题目 | python3 |
 |:---:|:---:|
-|42. Trapping Rain Water| [py3](https://github.com/PingHGao/leetcode/blob/master/TrappingRainWater.py) |  
+|42. Trapping Rain Water| [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/TrappingRainWater.py) |  
