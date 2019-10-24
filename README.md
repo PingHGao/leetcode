@@ -7,3 +7,4 @@
 |2. Add Two Numbers | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/2_AddTwoNumbers.py) |
 |42. Trapping Rain Water| [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/42_TrappingRainWater.py) |
 |46. Permutations | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/46_Permutations.py) |
+|48. Rotate Image|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/48_RotateImage.py)|
