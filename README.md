@@ -26,4 +26,5 @@
 |42. Trapping Rain Water| [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/42_TrappingRainWater.py) |
 |46. Permutations | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/46_Permutations.py) |
 |48. Rotate Image|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/48_RotateImage.py)|
+|49. Group Anagrams|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/49_GroupAnagrams.py)|
 |53. Maximum Subarray | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/53_MaximumSubarray.py) |
