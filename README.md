@@ -30,4 +30,4 @@
 |53. Maximum Subarray | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/53_MaximumSubarray.py) |
 |55. Jump Game|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/55_JumpGame.py)|
 |56. Merge Intervals|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/56_MergeIntervals.py)|
-|62. Unique Paths|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/62_UniquePaths.py|
+|62. Unique Paths|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/62_UniquePaths.py)|
