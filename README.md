@@ -34,3 +34,4 @@
 |64. Minimum Path Sum|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/64_MinimumPathSum.py)|
 |70. Climbing Stairs|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/70_ClimbingStairs.py)|
 |72. Edit Distance|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/72_EditDistance.py)|
+|75. Sort Colors|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/75_SortColors.py)|
