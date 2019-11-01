@@ -35,3 +35,4 @@
 |70. Climbing Stairs|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/70_ClimbingStairs.py)|
 |72. Edit Distance|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/72_EditDistance.py)|
 |75. Sort Colors|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/75_SortColors.py)|
+|76. Minimum Window Substring|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/76_MinimumWindowSubstring.py)|
