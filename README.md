@@ -33,3 +33,4 @@
 |62. Unique Paths|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/62_UniquePaths.py)|
 |64. Minimum Path Sum|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/64_MinimumPathSum.py)|
 |70. Climbing Stairs|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/70_ClimbingStairs.py)|
+|72. Edit Distance|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/72_EditDistance.py)|
