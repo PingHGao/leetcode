@@ -36,3 +36,4 @@
 |72. Edit Distance|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/72_EditDistance.py)|
 |75. Sort Colors|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/75_SortColors.py)|
 |76. Minimum Window Substring|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/76_MinimumWindowSubstring.py)|
+|78. Subsets|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/78_Subsets.py)|
