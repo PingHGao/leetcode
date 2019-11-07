@@ -38,4 +38,5 @@
 |76. Minimum Window Substring|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/76_MinimumWindowSubstring.py)|
 |78. Subsets|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/78_Subsets.py)|
 |79. Word Search|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/79_WordSearch.py)|
+|84. Largest Rectangle in Histogram|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/84_LargestRectangleinHistogram.py)|
 |101. Symmetric Tree|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/101_SymmetricTree.py)|
