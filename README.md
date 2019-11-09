@@ -41,4 +41,5 @@
 |84. Largest Rectangle in Histogram|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/84_LargestRectangleinHistogram.py)|
 |85. Maximal Rectangle|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/85_MaximalRectangle.py)|
 |94. Binary Tree Inorder Traversal|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/94_BinaryTreeInorderTraversal.py)|
+|96. Unique Binary Search Trees|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/96_UniqueBinarySearchTrees.py)|
 |101. Symmetric Tree|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/101_SymmetricTree.py)|
