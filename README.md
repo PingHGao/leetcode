@@ -45,3 +45,4 @@
 |98. Validate Binary Search Tree|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/98_ValidateBinarySearchTree.py)|
 |101. Symmetric Tree|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/101_SymmetricTree.py)|
 |102. Binary Tree Level Order Traversal|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/102_BinaryTreeLevelOrderTraversal.py)|
+|104. Maximum Depth of Binary Tree|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/104_MaximumDepthofBinaryTree.py)|
