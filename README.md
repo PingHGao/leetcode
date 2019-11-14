@@ -53,4 +53,5 @@
 |136. Single Number|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/136_SingleNumber.py)|
 |138. Copy List with Random Pointer|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/138_CopyListwithRandomPointer.py)|
 |128. Longest Consecutive Sequence|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/128_LongestConsecutiveSequence.py)|
+|139. Word Break|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/139_WordBreak.py)|
 
