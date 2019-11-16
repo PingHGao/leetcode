@@ -57,6 +57,7 @@
 |141. Linked List Cycle|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/141_LinkedListCycle.py)|
 |142. Linked List Cycle II|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/142_LinkedListCycleII.py)|
 |146. LRU Cache|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/146_LRUCache.py)|
+|148. Sort List|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/148_SortList.py)|
 
 
 
