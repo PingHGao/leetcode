@@ -60,7 +60,7 @@
 |148. Sort List|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/148_SortList.py)|
 |152. Maximum Product Subarray|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/152_MaximumProductSubarray.py)|
 |155. Min Stack|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/155_MinStack.py)|
-
+|169. Majority Element|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/169_MajorityElement.py)|
 
 
 
