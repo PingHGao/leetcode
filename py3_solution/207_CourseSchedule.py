@@ -1,22 +1,27 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+    def canFinish(self, n: int, prerequisites: List[List[int]]) -> bool:
         if not prerequisites:
             return True
+        g = collections.defaultdict(list)
+        idg, vst, q = [0] * n, [0] * n, []
         
-        from collections import Counter
-        import numpy as np
-        Preq = np.array(prerequisites)
-        
-        ns = list(set(Preq[:,0]))
-        
-        while ns:
-            idg = Counter(Preq[:, 1])
-            for i, n in enumerate(ns):
-                if n not in idg:
-                    del ns[i]
-                    Preq = np.delete(Preq, np.where(Preq[:, 0] == n), axis=0)
-                    break
-            else:
-                break
+        for i, j in prerequisites:
+            g[i].append(j)
+            idg[j] += 1
+            
+        for i in range(n):
+            if idg[i] == 0:
+                q.append(i)
+                vst[i] = 1
                 
-        return not ns
+        while q:
+            ind = q.pop(0)
+            n -= 1
+            
+            for i in g[ind]:
+                idg[i] -= 1
+                if idg[i] == 0 and vst[i] == 0:
+                    q.append(i)
+                    vst[i] = 1
+                    
+        return n == 0
