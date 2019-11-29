@@ -38,3 +38,32 @@ class Solution:
                 
         return maxS
                     
+# 方法2：动态规划
+class Solution:
+    def maximalSquare(self, matrix: List[List[str]]) -> int:
+        if not matrix:
+            return 0
+        
+        h, w = len(matrix), len(matrix[0])
+        dp = [[0] * w for i in range(h)]
+        
+        maxl = 0
+        for i in range(h):
+            dp[i][0] = int(matrix[i][0])
+            if dp[i][0] > 0:
+                maxl = 1
+        
+        for j in range(w):
+            dp[0][j] = int(matrix[0][j])
+            if dp[0][j] > 0:
+                maxl = 1
+        
+        for i,j in itertools.product(range(1, h), range(1, w)):
+            if matrix[i][j] == '0':
+                continue
+                
+            dp[i][j] = min(dp[i - 1][j - 1], dp[i][j - 1], dp[i - 1][j]) + 1
+            
+            maxl = max(maxl, dp[i][j])
+        
+        return maxl**2
