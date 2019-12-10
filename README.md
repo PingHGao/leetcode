@@ -77,3 +77,4 @@
 |240. Search a 2D Matrix II|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/240_Searcha2DMatrixII.py)|
 |279. Perfect Squares|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/279_PerfectSquares.py)|
 |283. Move Zeroes|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/283_MoveZeroes.py)|
+|287. Find the Duplicate Number|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/287_FindtheDuplicateNumber.py)|
