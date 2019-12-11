@@ -78,3 +78,4 @@
 |279. Perfect Squares|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/279_PerfectSquares.py)|
 |283. Move Zeroes|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/283_MoveZeroes.py)|
 |287. Find the Duplicate Number|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/287_FindtheDuplicateNumber.py)|
+|295. Find Median from Data Stream|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/295_FindMedianfromDataStream.py)|
