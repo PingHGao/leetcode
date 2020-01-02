@@ -90,7 +90,7 @@
 |394. Decode String|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/394_DecodeString.py)|
 |406. Queue Reconstruction by Height|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/406_QueueReconstructionbyHeight.py)|
 |416. Partition Equal Subset Sum|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/416_PartitionEqualSubsetSum.py)|
-
+|437. Path Sum III|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/437_PathSumIII.py)|
 
 
 
