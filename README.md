@@ -97,5 +97,6 @@
 |560. Subarray Sum Equals K|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/560_SubarraySumEqualsK.py)|
 |581. Shortest Unsorted Continuous Subarray|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/581_ShortestUnsortedContinuousSubarray.py)|
 |617. Merge Two Binary Trees|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/617_MergeTwoBinaryTrees.py)|
+|621. Task Scheduler|[py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/621_TaskScheduler.py)|
 
 
