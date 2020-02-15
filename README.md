@@ -1,9 +1,9 @@
 # leetcode
 我的LeetCode记录
 
-| 题目 | python3 |
-|:---|:---:|
-|1. Two Sum | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/1_TwoSum.py) |
+| 题目 | python3 | c++ |
+|:---|:---:|:---:|
+|1. Two Sum | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/1_TwoSum.py) | [c++](https://github.com/PingHGao/leetcode/blob/master/py3_solution/1_TwoSum.cpp)|
 |2. Add Two Numbers | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/2_AddTwoNumbers.py) |
 |3. Longest Substring Without Repeating Characters | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/3_LSWRC.py) |
 |4. Median of Two Sorted Arrays| [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/4_MedianofTwoSortedArrays.py) |
