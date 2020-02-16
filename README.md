@@ -5,7 +5,7 @@
 |:---|:---:|:---:|
 |1. Two Sum | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/1_TwoSum.py) | [cpp](https://github.com/PingHGao/leetcode/blob/master/cpp_solution/1_TwoSum.cpp)|
 |2. Add Two Numbers | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/2_AddTwoNumbers.py) |[cpp](https://github.com/PingHGao/leetcode/blob/master/cpp_solution/2_AddTwoNumbers.cpp)
-|3. Longest Substring Without Repeating Characters | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/3_LSWRC.py) |
+|3. Longest Substring Without Repeating Characters | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/3_LSWRC.py) |[cpp](https://github.com/PingHGao/leetcode/blob/master/cpp_solution/3_LSWRC.cpp) |
 |4. Median of Two Sorted Arrays| [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/4_MedianofTwoSortedArrays.py) |
 |5. Longest Palindromic Substring | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/5_LongestPalindromicSubstring.py)|
 |10. Regular Expression Matching | [py3](https://github.com/PingHGao/leetcode/blob/master/py3_solution/10_RegularExpressionMatching.py) |
